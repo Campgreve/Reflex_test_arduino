@@ -71,7 +71,7 @@ void vincitore (int winner){
   }
   if(winner==pinLB){
     Serial.println("Ha vinto B");
-    totWinA++;
+    totWinB++;
     nota=587;    
   }
   Serial.print("Punti totali A:");
