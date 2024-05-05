@@ -1,9 +1,9 @@
 # Reflex test arduino
 
-### immagine del circuito
+### circuit image
 
 ![alt image](./src/img_circuito.png)
 
-## descrizione
+## description
 
-Collegare tutte le componenti richieste nella immagine, copiare il codice, e una volta eseguito cliccare il bottone al centro dove è presente il led verde, dopodichè, dopo un tempo breve il buzzer eseguirà un suono, qualora uno dei due concorrenti clicca il bottone per primo vince.
+Connect all the components required in the image, copy the code, and once done click the button in the center where the green LED is located, after which, after a short time the buzzer will make a sound, if one of the two competitors clicks the button first wins.
